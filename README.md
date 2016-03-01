@@ -15,4 +15,5 @@ There are two branches. The "master" branch and the "solution" branch. The "mast
 ## Step 1:
 Fork this repo. Clone your fork. npm install. npm run start. Start refactoring.
 
-<img src='http://www.reactjsprogram.com/images/tyler-mcginnis.png' width="100px"/> Suggestion or just want to say thanks? You can find me on Twitter at [@tylermcginnis33](http://twitter.com/tylermcginnis33)
+
+Suggestion or just want to say thanks? You can find me on Twitter at [@tylermcginnis33](http://twitter.com/tylermcginnis33)
