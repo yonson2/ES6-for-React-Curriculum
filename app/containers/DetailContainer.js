@@ -1,5 +1,5 @@
 var React = require('react');
-var Detail = require('../components/Detail');
+import Detail from '../components/Detail'
 
 var DetailContainer = React.createClass({
   render: function() {
